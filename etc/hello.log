@@ -5,3 +5,36 @@
 2016-11-12 12:37:29 [195] [INFO] Booting worker with pid: 195
 2016-11-12 12:37:29 [196] [INFO] Booting worker with pid: 196
 2016-11-12 12:37:29 [197] [INFO] Booting worker with pid: 197
+2016-11-12 13:47:36 [108] [INFO] Starting gunicorn 17.5
+2016-11-12 13:47:36 [108] [INFO] Listening at: http://0.0.0.0:8080 (108)
+2016-11-12 13:47:36 [108] [INFO] Using worker: sync
+2016-11-12 13:47:36 [113] [INFO] Booting worker with pid: 113
+2016-11-12 13:47:36 [114] [INFO] Booting worker with pid: 114
+2016-11-12 13:47:36 [115] [INFO] Booting worker with pid: 115
+2016-11-12 13:47:36 [116] [INFO] Booting worker with pid: 116
+2016-11-12 13:56:15 [108] [INFO] Handling signal: term
+2016-11-12 13:56:15 [115] [INFO] Worker exiting (pid: 115)
+2016-11-12 13:56:15 [113] [INFO] Worker exiting (pid: 113)
+2016-11-12 13:56:15 [116] [INFO] Worker exiting (pid: 116)
+2016-11-12 13:56:15 [114] [INFO] Worker exiting (pid: 114)
+2016-11-12 13:56:15 [108] [INFO] Shutting down: Master
+2016-11-12 13:56:15 [325] [INFO] Starting gunicorn 17.5
+2016-11-12 13:56:15 [325] [INFO] Listening at: http://0.0.0.0:8080 (325)
+2016-11-12 13:56:15 [325] [INFO] Using worker: sync
+2016-11-12 13:56:15 [330] [INFO] Booting worker with pid: 330
+2016-11-12 13:56:15 [332] [INFO] Booting worker with pid: 332
+2016-11-12 13:56:15 [333] [INFO] Booting worker with pid: 333
+2016-11-12 13:56:15 [334] [INFO] Booting worker with pid: 334
+2016-11-12 14:00:43 [325] [INFO] Handling signal: term
+2016-11-12 14:00:43 [330] [INFO] Worker exiting (pid: 330)
+2016-11-12 14:00:43 [332] [INFO] Worker exiting (pid: 332)
+2016-11-12 14:00:43 [334] [INFO] Worker exiting (pid: 334)
+2016-11-12 14:00:43 [333] [INFO] Worker exiting (pid: 333)
+2016-11-12 14:00:43 [325] [INFO] Shutting down: Master
+2016-11-12 14:00:44 [460] [INFO] Starting gunicorn 17.5
+2016-11-12 14:00:44 [460] [INFO] Listening at: http://0.0.0.0:8080 (460)
+2016-11-12 14:00:44 [460] [INFO] Using worker: sync
+2016-11-12 14:00:44 [465] [INFO] Booting worker with pid: 465
+2016-11-12 14:00:44 [466] [INFO] Booting worker with pid: 466
+2016-11-12 14:00:44 [467] [INFO] Booting worker with pid: 467
+2016-11-12 14:00:44 [468] [INFO] Booting worker with pid: 468
