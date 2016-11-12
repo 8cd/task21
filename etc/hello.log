@@ -1,0 +1,7 @@
+2016-11-12 12:37:29 [189] [INFO] Starting gunicorn 17.5
+2016-11-12 12:37:29 [189] [INFO] Listening at: http://0.0.0.0:8080 (189)
+2016-11-12 12:37:29 [189] [INFO] Using worker: sync
+2016-11-12 12:37:29 [194] [INFO] Booting worker with pid: 194
+2016-11-12 12:37:29 [195] [INFO] Booting worker with pid: 195
+2016-11-12 12:37:29 [196] [INFO] Booting worker with pid: 196
+2016-11-12 12:37:29 [197] [INFO] Booting worker with pid: 197
